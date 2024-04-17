@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://upscale.sh</loc>
+	<lastmod>2024-04-17</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://upscale.sh/img/upscaling.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/social-causes.png</image:loc>
+	<image:title>Social causes</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/social-causes.webp</image:loc>
+	<image:title>Social causes</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/sandbox-research.png</image:loc>
+	<image:title>Sandbox research</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/sandbox-research.webp</image:loc>
+	<image:title>Sandbox research</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/creative-contents.png</image:loc>
+	<image:title>Creative contents</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/creative-contents.webp</image:loc>
+	<image:title>Creative contents</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/community-events.png</image:loc>
+	<image:title>Community events</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/community-events.webp</image:loc>
+	<image:title>Community events</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://upscale.sh/contact/</loc>
+	<lastmod>2024-04-17</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://upscale.sh/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://upscale.sh/legal/</loc>
+	<lastmod>2024-04-17</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://upscale.sh/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://upscale.sh/governance/</loc>
+	<lastmod>2024-04-17</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://upscale.sh/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://upscale.sh/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
